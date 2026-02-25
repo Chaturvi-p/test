@@ -6,7 +6,7 @@ def main():
     a = 2
     b = 3
     c = a + b
-    print("Sum of"+a+" and "+b+" is "+c)
+    print(c)
 
 
 if __name__ == "__main__":
