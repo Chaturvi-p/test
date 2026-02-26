@@ -7,6 +7,7 @@ def main():
     b = 3
     c = a + b
     print(c)
+    print(5)
 
 
 if __name__ == "__main__":
